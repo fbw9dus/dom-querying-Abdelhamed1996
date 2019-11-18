@@ -90,7 +90,7 @@ for(var i=0; i<footer2.length;i++){
 
 
 var list3 = document.querySelector("section ul")
-list3.style.marginLeft="630px"
+list3.style.marginLeft="500px"
 
 
 
